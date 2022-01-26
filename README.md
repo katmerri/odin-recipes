@@ -13,9 +13,9 @@ Practicing using the command line to:
 
 Practicing HTML tags and attributes:
 * HTML Boilerplate
-* <h1> main header, <h3> description header
-* <a> href attribute - relative links
-* <ul> unordered lists, <ol> ordered lists, and <li> lists
-* <hx> header for the list
-* <p> paragraphs
-* <img src> image on page
+* main header, description header 
+* anchor tag with href attribute - relative links and absolute links
+* unordered lists, ordered lists, and lists tags
+* header for the list
+* paragraphs
+* image on page, including image sizing and alt attribute
